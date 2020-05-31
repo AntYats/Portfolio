@@ -1,0 +1,290 @@
+html {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+  font-size: 62.5%;
+  font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color: #2c3e50;
+}
+
+.main {
+  margin-left: 5rem;
+
+  &_heading {
+    display: flex;
+    align-items: center;
+
+    &-text {
+      font-size: 4rem;
+    }
+
+    & > div {
+      margin-left: auto;
+      margin-right: 10rem;
+    }
+
+    &-icon {
+      width: 6rem;
+      height: 6rem;
+      background-size: cover;
+      object-fit: cover;
+      background-position: center;
+      cursor: pointer;
+      display: inline-block;
+      margin-right: 2rem;
+    }
+
+    &_description {
+      margin: 0;
+      font-size: 2.5rem;
+    }
+  }
+  &_skills {
+    margin-top: 4rem;
+    display: flex;
+    align-items: center;
+    width: 90%;
+
+    &_heading {
+      width: 45rem;
+      & > h3 {
+        font-size: 2rem;
+      }
+    }
+
+    &_block {
+      width: 70rem;
+      background-color: #FAFAFA;
+      border-radius: 10px;
+      flex: 1;
+
+      & > ul {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(12rem, 1fr));
+        grid-row-gap: 4rem;
+        padding-inline-start: 0;
+
+        & > li {
+          list-style: none;
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          text-align: center;
+
+          & > span {
+            font-size: 2rem;
+          }
+        }
+      }
+      &-icon {
+        width: 4rem;
+        height: 4rem;
+        background-size: cover;
+        object-fit: cover;
+        background-position: center;
+        display: inline-block;
+      }
+    }
+  }
+  &_future_skills {
+    margin-top: 4rem;
+    width: 90%;
+    display: flex;
+    align-items: center;
+
+    &_heading {
+      width: 45rem;
+      & > h3 {
+        font-size: 2rem;
+      }
+    }
+
+    &_block {
+      background-color: #FAFAFA;
+      border-radius: 10px;
+      flex: 1;
+
+      & > ul {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(12rem, 1fr));
+        grid-row-gap: 3rem;
+        padding-inline-start: 0;
+
+        & > li {
+          list-style: none;
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          text-align: center;
+
+          & > span {
+            font-size: 1.6rem;
+          }
+        }
+      }
+      &-icon {
+        width: 4rem;
+        height: 4rem;
+        background-size: cover;
+        object-fit: cover;
+        background-position: center;
+        display: inline-block;
+      }
+    }
+  }
+  &_works {
+    width: 90%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    &_heading {
+      & > h3 {
+        font-size: 2rem;
+      }
+    }
+
+    &_block {
+      background-color: #FAFAFA;
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      padding: 3rem;
+
+      &-image {
+        & > h3 {
+          font-size: 2rem;
+        }
+        & > img {
+          width: 100%;
+          height: auto;
+          border-radius: 5px;
+        }
+      }
+      &-skills {
+
+        border-radius: 10px;
+        background-color: #FFCC80;
+        padding: 1rem;
+        min-height: 19rem;
+
+        & > h3 {
+          font-size: 2rem;
+        }
+
+        &-list {
+          width: 20rem;
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          padding-inline-start: 0;
+
+          & > li {
+            font-size: 2rem;
+            list-style: none;
+
+            &::before {
+              content: "—";
+              position: relative;
+              left: -5px;
+            }
+
+            & > span {
+              font-size: 2rem;
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
+.github {
+  background-image: url("assets/images/github.svg");
+}
+
+.linkedIn {
+  background-image: url("assets/images/linkedin.svg");
+}
+
+.telegram {
+  background-image: url("assets/images/telegram.svg");
+}
+
+.email {
+  background-image: url("assets/images/email.svg");
+}
+
+.javascript {
+  background-image: url("assets/images/js.svg");
+}
+
+.react {
+  background-image: url("assets/images/react.svg");
+}
+
+.redux {
+  background-image: url("assets/images/redux.svg");
+  width: 4.4rem!important;
+  height: 4.2rem;
+}
+
+.vue {
+  width: 4.5rem!important;
+  background-image: url("assets/images/vue.svg");
+}
+
+.vuex {
+  background-image: url("assets/images/vuex.png");
+}
+
+.git {
+  background-image: url("assets/images/git.svg");
+}
+
+.firebase {
+  background-image: url("assets/images/firebase.svg");
+}
+
+.scss {
+  background-image: url("assets/images/scss.png");
+}
+
+.pwa {
+  background-image: url("assets/images/pwa.png");
+}
+
+.webpack {
+  background-image: url("assets/images/webpack.png");
+}
+
+.webComponents {
+  background-image: url("assets/images/webComponents.png");
+}
+
+.typescript {
+  background-image: url("assets/images/typescript.svg");
+}
+
+.threeJs {
+  background-image: url("assets/images/threeJs.jpg");
+}
+
+.reactNative {
+  background-image: url("assets/images/reactNative.png");
+}
+
+.nextJs {
+  background-image: url("assets/images/nextJs.svg");
+}
+
+.webAssembly {
+  background-image: url("assets/images/wasm.png");
+}
