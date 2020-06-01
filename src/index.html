@@ -8,7 +8,15 @@
 <body>
 <main class="main">
     <div class="main_heading">
-        <h2 class="main_heading-text">Привет! я Антон Яценко, <br/> Фронтенд разработчик 👦</h2>
+        <h2 class="main_heading-text" id="hello">Привет! я Антон Яценко, <br/> Фронтенд разработчик 👦</h2>
+        <div class="main_heading-language">
+            <span class="main_heading-language-active" id="lang-ru">RU</span>
+            <span class="main_heading-language-br">|</span>
+            <span id="lang-en">EN</span>
+        </div>
+    </div>
+    <div class="main_heading_description">
+        <h1 id="description">Я помогу вам создать продукт, <br/> которым будут довольны ваши пользователи</h1>
         <div>
             <a href="https://github.com/AntYats" target="_blank">
                 <span class="main_heading-icon github"></span>
@@ -24,11 +32,10 @@
             </a>
         </div>
     </div>
-    <h1 class="main_heading_description">Я помогу вам создать продукт, <br/> которым будут довольны ваши пользователи
-    </h1>
+
     <div class="main_skills">
         <div class="main_skills_heading">
-            <h3>С чем я умею работать:</h3>
+            <h3 id="skills">С чем я умею работать:</h3>
         </div>
         <div class="main_skills_block">
             <ul>
@@ -81,7 +88,7 @@
     </div>
     <div class="main_future_skills">
         <div class="main_future_skills_heading">
-            <h3>Какие технологии привлекают моё внимание: </h3>
+            <h3 id="futureSkills">Какие технологии привлекают моё внимание: </h3>
         </div>
         <div class="main_future_skills_block">
             <ul>
@@ -110,17 +117,17 @@
     </div>
     <div class="main_works">
         <div class="main_works_heading">
-            <h2>Мои работы:</h2>
+            <h2 id="works">Мои работы:</h2>
         </div>
         <div class="main_works_block">
             <div class="main_works_block-image">
-                <h3>Визуализация распространения короновируса на глобусе</h3>
+                <h3 id="covidGlobus">Визуализация распространения короновируса на глобусе</h3>
                 <a href="https://antyats.github.io/COVID-19-Globus/">
                     <img src="assets/images/covidGlobus.png" alt="work" />
                 </a>
             </div>
             <div class="main_works_block-skills">
-                <h3>Технологии в проекте</h3>
+                <h3 class="stackOfProject">Технологии в проекте</h3>
                 <ul>
                     <li>
                         <span>Javascript</span>
@@ -133,13 +140,13 @@
         </div>
         <div class="main_works_block">
             <div class="main_works_block-image">
-                <h3>Сайт ресторана</h3>
+                <h3 id="restaraunt">Сайт ресторана</h3>
                 <a href="https://antyats.github.io/Restaurant/">
                     <img src="assets/images/restaurant.png" alt="work" />
                 </a>
             </div>
             <div class="main_works_block-skills">
-                <h3>Технологии в проекте</h3>
+                <h3 class="stackOfProject">Технологии в проекте</h3>
                 <ul>
                     <li>
                         <span>Vue.js</span>
@@ -149,14 +156,14 @@
         </div>
         <div class="main_works_block">
             <div class="main_works_block-image">
-                <h3>Приложение для отслеживание затрат</h3>
+                <h3 id="expenses">Приложение для отслеживание затрат</h3>
                 <a href="https://antyats.github.io/ExpensesApp/">
                     <img src="assets/images/expenses.png" alt="work" />
                 </a>
             </div>
             <div class="main_works_block-course">
                 <div class="main_works_block-skills">
-                    <h3>Технологии в проекте</h3>
+                    <h3 class="stackOfProject">Технологии в проекте</h3>
                     <ul>
                         <li>
                             <span>React</span>
@@ -170,20 +177,20 @@
                     </ul>
                 </div>
                 <div class="main_works_block-skills-made_with">
-                    <p>Сделано на </p>
+                    <p id="madeWith">Сделано на </p>
                     <img src="assets/images/udemy.png" alt="logo"/>
                 </div>
             </div>
         </div>
         <div class="main_works_block">
             <div class="main_works_block-image">
-                <h3>Сайт с подробной статистикой распространения коронавируса</h3>
+                <h3 id="covidStats">Сайт с подробной статистикой распространения коронавируса</h3>
                 <a href="https://antyats.github.io/COVID-19/">
                     <img src="assets/images/covidstats.png" alt="work" />
                 </a>
             </div>
             <div class="main_works_block-skills">
-                <h3>Технологии в проекте</h3>
+                <h3 class="stackOfProject">Технологии в проекте</h3>
                 <ul>
                     <li>
                         <span>Javascript</span>
@@ -194,15 +201,15 @@
     </div>
     <div class="main_contact">
         <div class="main_contact_heading">
-            <h2>Мое резюме:</h2>
+            <h2 id="myResume">Мое резюме:</h2>
         </div>
         <div class="main_contact_block">
-            <a href="/" download>
+            <a href="assets/files/резюме.pdf" download>
                 <button class="main_contact_block-button">Резюме.pdf</button>
             </a>
         </div>
         <div class="main_contact_heading">
-            <h2>Напишите мне:</h2>
+            <h2 id="chatToMe">Напишите мне:</h2>
         </div>
         <div class="main_contact_block">
             <a href="https://github.com/AntYats" target="_blank">

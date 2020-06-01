@@ -35,5 +35,8 @@
     "webpack-dev-server": "^3.10.3"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "workbox-webpack-plugin": "^5.1.3"
+  }
 }
