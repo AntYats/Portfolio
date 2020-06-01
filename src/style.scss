@@ -106,7 +106,7 @@ body {
     }
 
     &_block {
-      background-color: #FAFAFA;
+      background-color: #fafafa;
       border-radius: 10px;
       flex: 1;
 
@@ -140,14 +140,14 @@ body {
   }
   &_works {
     width: 90%;
-    margin: 0 auto;
+    margin: 5rem auto;
     display: flex;
     flex-direction: column;
     align-items: center;
 
     &_heading {
-      & > h3 {
-        font-size: 2rem;
+      & > h2 {
+        font-size: 4rem;
       }
     }
 
@@ -156,30 +156,42 @@ body {
       display: flex;
       flex-wrap: wrap;
       align-items: center;
-      padding: 3rem;
+      padding: 4rem;
+      border-radius: 10px;
+      margin-top: 3rem;
+
+      &:first-of-type {
+        margin-top: 0;
+      }
 
       &-image {
+        width: 50rem;
+
         & > h3 {
           font-size: 2rem;
         }
-        & > img {
-          width: 100%;
-          height: auto;
-          border-radius: 5px;
+
+        & > a {
+          & > img {
+            width: 100%;
+            height: auto;
+            border-radius: 5px;
+          }
         }
       }
-      &-skills {
 
+      &-skills {
         border-radius: 10px;
-        background-color: #FFCC80;
+        background-color: #EDE7F6;
         padding: 1rem;
-        min-height: 19rem;
+        margin-left: 2rem;
 
         & > h3 {
-          font-size: 2rem;
+          font-size: 1.6rem;
+          text-align: center;
         }
 
-        &-list {
+        & > ul {
           width: 20rem;
           display: flex;
           flex-direction: column;
@@ -199,6 +211,25 @@ body {
             & > span {
               font-size: 2rem;
             }
+          }
+        }
+
+        &-made_with {
+          margin-left: 2rem;
+          margin-top: 4rem;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          background-color: #FBE9E7;
+          border-radius: 10px;
+
+          & > p {
+            font-size: 1.3rem;
+          }
+
+          & > img {
+            width: 11rem;
+            height: 6rem;
           }
         }
       }
@@ -287,4 +318,8 @@ body {
 
 .webAssembly {
   background-image: url("assets/images/wasm.png");
+}
+
+.course {
+  background-image: url("assets/images/udemy.png");
 }
