@@ -49,6 +49,12 @@ body {
       font-size: 4rem;
     }
 
+    @media (max-width: 600px){
+      &-language {
+        display: none!important;
+      }
+    }
+
     &-language {
       display: flex;
       align-items: center;
@@ -69,6 +75,13 @@ body {
       &-br {
         height: 4rem;
         cursor: cell;
+      }
+    }
+
+    @media (max-width: 1500px) {
+      &-icon {
+        width: 4rem!important;
+        height: 4rem!important;
       }
     }
 
@@ -106,8 +119,9 @@ body {
       display: flex;
       align-items: center;
 
-      @media (max-width: 1200px){
+      @media (max-width: 1500px){
         & > div {
+          width: 35%;
           margin-right: 2rem!important;
         }
       }
