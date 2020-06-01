@@ -20,14 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0a7ffbe2-8f48-455f-9d3a-15c532ccd5ed" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/mip73.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/covidstats.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/expenses.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/udemy.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/portfoliosite.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/portfoliosite.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/style.scss" afterDir="false" />
     </list>
@@ -73,7 +66,7 @@
       <updated>1591000445917</updated>
       <workItem from="1591000449895" duration="40000" />
       <workItem from="1591000490656" duration="2301000" />
-      <workItem from="1591005089297" duration="4180000" />
+      <workItem from="1591005089297" duration="11159000" />
     </task>
     <servers />
   </component>
