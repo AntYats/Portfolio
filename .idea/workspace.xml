@@ -20,7 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0a7ffbe2-8f48-455f-9d3a-15c532ccd5ed" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/sw.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/work.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/0e4fb1c819ac4c060c92343147d4ccf7.svg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/1.app.js" beforeDir="false" />
@@ -76,13 +76,11 @@
       <change beforePath="$PROJECT_DIR$/dist/fd17f9a512943c20b1e9411e872008f7.svg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/main.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/service-worker.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/style.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/workbox-416ffb88.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/sw.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/files/резюме.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/files/резюме.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/style.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,7 +111,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/assets/images" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -121,6 +119,11 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\mip73\Desktop\Web\Portfolio\PortfolioSite\src\assets\images" />
+    </key>
   </component>
   <component name="RunManager" selected="npm.deploy">
     <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
@@ -165,7 +168,9 @@
       <workItem from="1591005089297" duration="22261000" />
       <workItem from="1591039727715" duration="525000" />
       <workItem from="1591040264953" duration="2274000" />
-      <workItem from="1591044036080" duration="864000" />
+      <workItem from="1591044036080" duration="1595000" />
+      <workItem from="1591046274068" duration="382000" />
+      <workItem from="1591096432404" duration="3205000" />
     </task>
     <servers />
   </component>
@@ -188,26 +193,26 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="797" y="310" key="FileChooserDialogImpl" timestamp="1591000487635">
+    <state x="797" y="310" key="FileChooserDialogImpl" timestamp="1591045658915">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="797" y="310" key="FileChooserDialogImpl/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1591000487635" />
-    <state width="2026" height="305" key="GridCell.Tab.0.bottom" timestamp="1591042640492">
+    <state x="797" y="310" key="FileChooserDialogImpl/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1591045658915" />
+    <state width="2026" height="305" key="GridCell.Tab.0.bottom" timestamp="1591046662308">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2026" height="305" key="GridCell.Tab.0.bottom/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1591042640492" />
-    <state width="2026" height="305" key="GridCell.Tab.0.center" timestamp="1591042640492">
+    <state width="2026" height="305" key="GridCell.Tab.0.bottom/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1591046662308" />
+    <state width="2026" height="305" key="GridCell.Tab.0.center" timestamp="1591046662308">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2026" height="305" key="GridCell.Tab.0.center/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1591042640492" />
-    <state width="2026" height="305" key="GridCell.Tab.0.left" timestamp="1591042640492">
+    <state width="2026" height="305" key="GridCell.Tab.0.center/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1591046662308" />
+    <state width="2026" height="305" key="GridCell.Tab.0.left" timestamp="1591046662308">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2026" height="305" key="GridCell.Tab.0.left/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1591042640492" />
-    <state width="2026" height="305" key="GridCell.Tab.0.right" timestamp="1591042640492">
+    <state width="2026" height="305" key="GridCell.Tab.0.left/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1591046662308" />
+    <state width="2026" height="305" key="GridCell.Tab.0.right" timestamp="1591046662308">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2026" height="305" key="GridCell.Tab.0.right/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1591042640492" />
+    <state width="2026" height="305" key="GridCell.Tab.0.right/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1591046662308" />
     <state x="1018" y="0" width="1035" height="1118" maximized="true" key="dock-window-1" timestamp="1591035262102">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
