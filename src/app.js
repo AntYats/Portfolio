@@ -1,5 +1,8 @@
 import './style.scss'
 
+import resumeRu from './assets/files/резюме.pdf'
+import resumeEn from './assets/files/resume.pdf'
+
 const langRu = document.getElementById('lang-ru'),
       langEn = document.getElementById('lang-en');
 
@@ -15,7 +18,8 @@ const helloText = document.getElementById('hello'),
       covidStatsText = document.getElementById('covidStats'),
       expensesText = document.getElementById('expenses'),
       myResumeText = document.getElementById('myResume'),
-      chatToMeText = document.getElementById('chatToMe');
+      chatToMeText = document.getElementById('chatToMe'),
+      resume = document.getElementById('resumeFile');
 
 const languages = {
     english: {
@@ -64,11 +68,13 @@ langRu.addEventListener('click', function () {
     covidStatsText.innerText = languages.russian.covidStatsSite;
     myResumeText.innerText = languages.russian.myResume;
     chatToMeText.innerText = languages.russian.chatToMe;
+    resume.setAttribute('href', resumeRu);
     langEn.classList.remove('main_heading-language-active');
     this.classList.add('main_heading-language-active');
 })
 
 langEn.addEventListener('click', function () {
+    console.log(resume)
     helloText.innerText = languages.english.hello;
     descriptionText.innerText = languages.english.description;
     skillsText.innerText = languages.english.skills;
@@ -82,6 +88,7 @@ langEn.addEventListener('click', function () {
     covidStatsText.innerText = languages.english.covidStatsSite;
     myResumeText.innerText = languages.english.myResume;
     chatToMeText.innerText = languages.english.chatToMe;
+    resume.setAttribute('href', resumeEn);
     langRu.classList.remove('main_heading-language-active');
     this.classList.add('main_heading-language-active');
 })

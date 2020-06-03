@@ -20,67 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0a7ffbe2-8f48-455f-9d3a-15c532ccd5ed" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/assets/images/work.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/0e4fb1c819ac4c060c92343147d4ccf7.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/1.app.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/15c57e49a1a77be16f1a63fd08e62060.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/1b2b52c044b9dcea988e68b966864c5a.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/1c48a5427baa1ff253f09d39bdde84d7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/3e8eb53ed56927f0a19b97104b2ed21c.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/60f07a9a8dbca1ea3ccdec86a4d7a0d1.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/6a2b59046b83588c9de2767b2eabddd9.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/6df2c076e2137dddc72966a9df2fbf87.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/7a288703a92fab727a065bb64707f73f.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/82f70924b615cd843c5081c9c16d5a77.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/89004aa063913733b027e876b94b8695.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/9f83b93d5bb55c533ae223a33cd60fe8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/a6305a733dd55243980aec55f96f70c5.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/a9ea37fa450dad3dca714631bf33d28d.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/acb271fa8d88e8bae5f5921eb4b544a8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/app.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/files/resume.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/files/резюме.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/images/covidGlobus.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/images/covidstats.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/images/email.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/images/expenses.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/images/firebase.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/images/git.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/images/github.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/images/js.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/images/linkedin.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/images/nextJs.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/images/pwa.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/images/pwa.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/images/react.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/images/reactNative.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/images/redux.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/images/restaurant.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/images/scss.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/images/telegram-.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/images/telegram.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/images/threeJs.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/images/typescript.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/images/udemy.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/images/vue.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/images/vuex.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/images/wasm.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/images/webComponents.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/images/webpack.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/dd8f1dcaa3e71f534f3f73bb8e6c2d2b.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/e68b35f4774979ae220b1d5d7b345b00.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/e8c48bc7372dca53c1562b71144c164b.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/eb664e820be8f52e08c358750fd5e3b5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/f04dfe30a8ad8eb5c4e01aaf1163cb53.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/fd17f9a512943c20b1e9411e872008f7.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/main.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/style.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/sw.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/files/резюме.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/files/резюме.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/style.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,7 +53,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/assets/images" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -125,7 +67,7 @@
       <recent name="C:\Users\mip73\Desktop\Web\Portfolio\PortfolioSite\src\assets\images" />
     </key>
   </component>
-  <component name="RunManager" selected="npm.deploy">
+  <component name="RunManager" selected="npm.build">
     <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/package.json" />
       <command value="run" />
@@ -146,10 +88,21 @@
       <envs />
       <method v="2" />
     </configuration>
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="npm.deploy" />
         <item itemvalue="npm.build" />
+        <item itemvalue="npm.start" />
+        <item itemvalue="npm.deploy" />
       </list>
     </recent_temporary>
   </component>
@@ -170,7 +123,8 @@
       <workItem from="1591040264953" duration="2274000" />
       <workItem from="1591044036080" duration="1595000" />
       <workItem from="1591046274068" duration="382000" />
-      <workItem from="1591096432404" duration="3205000" />
+      <workItem from="1591096432404" duration="3451000" />
+      <workItem from="1591188176337" duration="611000" />
     </task>
     <servers />
   </component>
@@ -197,29 +151,29 @@
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="797" y="310" key="FileChooserDialogImpl/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1591045658915" />
-    <state width="2026" height="305" key="GridCell.Tab.0.bottom" timestamp="1591046662308">
+    <state width="2026" height="305" key="GridCell.Tab.0.bottom" timestamp="1591188452621">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2026" height="305" key="GridCell.Tab.0.bottom/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1591046662308" />
-    <state width="2026" height="305" key="GridCell.Tab.0.center" timestamp="1591046662308">
+    <state width="2026" height="305" key="GridCell.Tab.0.bottom/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1591188452621" />
+    <state width="2026" height="305" key="GridCell.Tab.0.center" timestamp="1591188452621">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2026" height="305" key="GridCell.Tab.0.center/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1591046662308" />
-    <state width="2026" height="305" key="GridCell.Tab.0.left" timestamp="1591046662308">
+    <state width="2026" height="305" key="GridCell.Tab.0.center/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1591188452621" />
+    <state width="2026" height="305" key="GridCell.Tab.0.left" timestamp="1591188452620">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2026" height="305" key="GridCell.Tab.0.left/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1591046662308" />
-    <state width="2026" height="305" key="GridCell.Tab.0.right" timestamp="1591046662308">
+    <state width="2026" height="305" key="GridCell.Tab.0.left/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1591188452620" />
+    <state width="2026" height="305" key="GridCell.Tab.0.right" timestamp="1591188452621">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2026" height="305" key="GridCell.Tab.0.right/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1591046662308" />
+    <state width="2026" height="305" key="GridCell.Tab.0.right/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1591188452621" />
     <state x="1018" y="0" width="1035" height="1118" maximized="true" key="dock-window-1" timestamp="1591035262102">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="1018" y="0" width="1035" height="1118" maximized="true" key="dock-window-1/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1591035262102" />
-    <state x="1198" y="248" width="672" height="678" key="search.everywhere.popup" timestamp="1591034372467">
+    <state x="1198" y="248" width="672" height="678" key="search.everywhere.popup" timestamp="1591188265061">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="1198" y="248" width="672" height="678" key="search.everywhere.popup/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1591034372467" />
+    <state x="1198" y="248" width="672" height="678" key="search.everywhere.popup/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1591188265061" />
   </component>
 </project>
